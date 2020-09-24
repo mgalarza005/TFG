@@ -4,6 +4,7 @@ import domain.*;
 
 import miners.FamilyModelMiner;
 
+//LAPTOP-VSQPQNDP
 public class FamilyModelDB {
 	
 	private static final String INSERT_CODE_ELEMENT = "INSERT INTO CODE_ELEMENT (ID,PATH,TYPE,PARENT,SPL_ID) VALUES (:id,:path,:type,:parent_id,:spl_id);";
